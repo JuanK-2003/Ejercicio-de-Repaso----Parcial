@@ -1,2 +1,2 @@
 # Ejercicio-de-Repaso----Parcial
-En este ejercicio se utiliza ArrayList, Clases y objetos y la función de jTable
+En este ejercicio se utiliza ArrayList, menú contextual y POO
